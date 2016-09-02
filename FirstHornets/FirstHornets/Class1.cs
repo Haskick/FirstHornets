@@ -4,9 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FirstHornets
-{
-    public class Class1
-    {
+namespace FirstHornets {
+    public class Class1 {
     }
 }
