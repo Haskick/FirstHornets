@@ -6,5 +6,10 @@ using System.Threading.Tasks;
 
 namespace FirstHornets {
     public class Class1 {
+        string first;
+
+
+
+
     }
 }
